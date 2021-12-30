@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 29 11:46:58 UTC 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1640778418092
+http\://dl.bintray.com/kotlin/kotlin-eap/.error=Could not transfer artifact org.apiguardian\:apiguardian-api\:jar\:1.0.0 from/to kotlin-eap (http\://dl.bintray.com/kotlin/kotlin-eap)\: Transfer failed for http\://dl.bintray.com/kotlin/kotlin-eap/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar 502 Bad Gateway
+@default-kotlin-eap-http\://dl.bintray.com/kotlin/kotlin-eap/.lastUpdated=1640778418032

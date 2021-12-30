@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 29 10:24:12 UTC 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1640773452176
+http\://dl.bintray.com/kotlin/kotlin-eap/.error=Could not transfer artifact org.codehaus.plexus\:plexus-containers\:pom\:1.5.4 from/to kotlin-eap (http\://dl.bintray.com/kotlin/kotlin-eap)\: Transfer failed for http\://dl.bintray.com/kotlin/kotlin-eap/org/codehaus/plexus/plexus-containers/1.5.4/plexus-containers-1.5.4.pom 502 Bad Gateway
+@default-kotlin-eap-http\://dl.bintray.com/kotlin/kotlin-eap/.lastUpdated=1640773452139

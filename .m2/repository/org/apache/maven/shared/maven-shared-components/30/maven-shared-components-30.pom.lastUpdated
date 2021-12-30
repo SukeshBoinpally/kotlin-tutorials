@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 29 11:46:40 UTC 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1640778400286
+http\://dl.bintray.com/kotlin/kotlin-eap/.error=Could not transfer artifact org.apache.maven.shared\:maven-shared-components\:pom\:30 from/to kotlin-eap (http\://dl.bintray.com/kotlin/kotlin-eap)\: Transfer failed for http\://dl.bintray.com/kotlin/kotlin-eap/org/apache/maven/shared/maven-shared-components/30/maven-shared-components-30.pom 502 Bad Gateway
+@default-kotlin-eap-http\://dl.bintray.com/kotlin/kotlin-eap/.lastUpdated=1640778400221

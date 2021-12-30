@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 29 10:23:34 UTC 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1640773414211
+http\://dl.bintray.com/kotlin/kotlin-eap/.error=Could not transfer artifact com.jcraft\:jsch.agentproxy.usocket-nc\:pom\:0.0.9 from/to kotlin-eap (http\://dl.bintray.com/kotlin/kotlin-eap)\: Transfer failed for http\://dl.bintray.com/kotlin/kotlin-eap/com/jcraft/jsch.agentproxy.usocket-nc/0.0.9/jsch.agentproxy.usocket-nc-0.0.9.pom 502 Bad Gateway
+@default-kotlin-eap-http\://dl.bintray.com/kotlin/kotlin-eap/.lastUpdated=1640773414165
